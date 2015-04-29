@@ -302,3 +302,15 @@ margin:10px;
 	position:relative !important;
 	}
 }
+
+.spiral_content {
+    position: relative;
+}
+.block {
+    border: 1px solid #696969;
+    color: #000;
+    margin-right: 10px;
+    position: absolute;
+    text-align: center;
+    width: 23px;
+}
